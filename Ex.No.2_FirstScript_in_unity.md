@@ -1,6 +1,6 @@
 # Ex.No: 2  Welcome Script in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 30/01/2026                                                                         
+### REGISTER NUMBER : 212223240038
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
@@ -19,12 +19,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class FirstScript : MonoBehaviour
+public class simple : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        print("Welcome to Unity");
+        print("Hello");
     }
 
     // Update is called once per frame
@@ -35,6 +35,8 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
+
+![aig1](https://github.com/user-attachments/assets/d92a2952-02a7-444e-8c87-99165346cf6f)
 
 
 
